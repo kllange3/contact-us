@@ -1,0 +1,15 @@
+body {
+	background: black;
+	color: white;
+	margin: 0 auto;
+	font-family: 'Raleway', sans-serif;
+	max-width: 600px;
+}
+header {
+	text-align: left;
+	background: black;
+	color: white;
+}
+a {
+	color: white;
+}
